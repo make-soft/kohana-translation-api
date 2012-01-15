@@ -18,10 +18,10 @@ To test if your Kohana Translation API works properly try this small test in you
 Quick example
 -------------
 
-The following is a quick example of how to use Kohana Google Translation API.
+The following is a quick example of how to use Kohana Translation API.
 
 	$sampleText = "Bonjour de cette partie du monde";
 	 
 	/* translate(string, to_language, from_language) */
-	echo GTApi::factory()->translate($sampleText , "pl", "fr");
+	echo Translator::translate($sampleText , "pl", "fr");
 
