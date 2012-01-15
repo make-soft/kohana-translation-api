@@ -6,7 +6,7 @@ from [Github](https://github.com/make-soft/kohana-translation-api). Place the mo
 folder. Finally enable the module within the application bootstrap within the section entitled _modules_.
 
 Kohana Translation API provides translation services
-  * MyMemory 
+* MyMemory 
 
 Quick test
 ----------
