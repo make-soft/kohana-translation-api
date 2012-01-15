@@ -4,7 +4,7 @@ class Translator_Driver_MyMemory
 {
     
     /**
-     * URL of Google translate
+     * URL of translation service provider
      * @var string
      */
     private $_mymemoryTranslateUrl = 'http://mymemory.translated.net/api/get';
